@@ -1,4 +1,3 @@
-ច្បាស់ហើយបង 👍 បងចង់រៀន **NumPy + Matplotlib (2D/3D plotting) ចាប់ពី Basic → Advance**។ ខ្ញុំនឹងរៀបចំជា **Learning Roadmap + Content Outline** សម្រាប់រៀន step by step។
 
 ---
 
